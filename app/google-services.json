@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "201833855505",
+    "project_id": "fir-demo-bfa19",
+    "storage_bucket": "fir-demo-bfa19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201833855505:android:5504994ce8c244d5fa8fb0",
+        "android_client_info": {
+          "package_name": "com.bondidos.firestoredemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201833855505-31u6jmdn471o9g602nkmp8g447ajcbnl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuOl_4gxOeoPDqRZxhIq-Y5qOTI_GBA_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201833855505-31u6jmdn471o9g602nkmp8g447ajcbnl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
